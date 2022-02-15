@@ -1,0 +1,44 @@
+Sentence;type
+je veux partir de first pour second;from_to
+Je quitte first pour second;from_to
+itinéraire de voyage de first vers second;from_to
+Quel est l'itinéraire entre first et second;from_to
+Quel trajet pour first second;from_to
+Quel est l'itinéraire entre first et second;from_to
+je viens de first et je veux aller à second;from_to
+trajet first second;from_to
+itinéraire first second;from_to
+le départ et l'arrivée de mon voyage sont respectivement first et second;from_to
+L'arrivée et le départ de mon voyage sont respectivement first et second;from_to
+Ma provenance et ma destination sont respectivement first et second;from_to
+j'aimerais partir de first pour me rendre à second;from_to
+Je suis à first et je souhaite me rendre à second;from_to
+Je souhaite le chemin le plus rapide entre les deux gares suivantes gare de first et gare de second;from_to
+nous voulons aller du pont du first jusqu'à second;from_to
+ils veulent aller de first jusqu'à second;from_to
+Je veux le trajet de first à second;from_to
+Je veux aller de first à second;from_to
+Depuis first à second;from_to
+Itinéraire first second;from_to
+Emmène moi de first à second;from_to
+de first à second;from_to
+Quel trajet pour first second;from_to
+Je suis à first et je veux aller à second;from_to
+J'aimerais me rendre sur first en partant de second;to_from
+arrivée first et départ second;to_from
+j'aimerais me rendre à first en quittant second;to_from
+Guide moi de first vers second;to_from
+Trouve un train partant de first et allant à second;to_from
+Indique moi le chemin pour first depuis second;to_from
+Ma destination et ma provenance sont respectivement first et second;to_from
+Je me rends à first en partant de second;to_from
+J'irai bien à la gare de austerlitz depuis la gare de second;to_from
+Donne moi l'itinéraire pour aller à first en partant de second;to_from
+Je veux me rendre à first en partant de second;to_from
+Comment aller à first depuis second;to_from
+Allons à first depuis second;to_from
+Itiniréraire jusqu'a first depuis second;to_from
+itinéraire jusqu'a first en partant de second;to_from
+Je veux trouver un trajet de first à second;from_to
+Trouve le chemin pour first depuis second;to_from
+Comment me rendre à first depuis second;to_from

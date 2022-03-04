@@ -1,8 +1,6 @@
 import csv
 import json
 
-    # rows.append(row)
-# print(rows)
 class PathFinder:
     def __init__(self, departure, destination):
         self.departure = departure

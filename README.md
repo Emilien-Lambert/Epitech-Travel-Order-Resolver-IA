@@ -22,7 +22,7 @@ A school project whose objective is to create an AI that determines the fastest 
 Dijkstra’s Algorithm.  
 <https://www.udacity.com/blog/2021/10/implementing-dijkstras-algorithm-in-python.html>
 
-<p style="text-align: center">
+<p align="center">
   <img src="./dijkstra.png" />
 </p>
 
